@@ -1,0 +1,65 @@
+p {
+    font-size: 24px;    
+    padding-right: 700px;
+    margin: 20px;
+    padding-left: 8px;
+}
+
+h1,h2 {
+    color: gold;
+    background-color: darkred;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    padding: 8px;
+    height: 45px;
+    width: 830px;
+    margin-left: 250px;
+    margin-top: 220px;
+}
+
+h2 {
+    padding: 10px;
+}
+    
+.map {    
+    float: right;
+    margin: auto;
+    margin-right: 125px;
+    margin-top: auto;
+    height: 350px;
+    width: auto;
+}
+
+div {
+    position: absolute;
+    top: 10px;
+}
+
+.img {
+    height: 200px;
+    width: 278px;
+    margin-right: 5px;
+}
+
+ul {
+    list-style-type: lower-roman;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: white;
+    color: gold;
+    font-size: 20px;
+    padding: 10px 15px;
+}
+
+button:hover {
+    background-color: darkred;
+    color: gold;
+}
