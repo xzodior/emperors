@@ -1,0 +1,50 @@
+#title {
+    font-size: 40px;
+    text-align: center;
+    background-color: darkred;
+    color: gold;
+    padding: 20px;
+    margin: auto 200px;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.image {
+    display: block;
+    width: 30%;
+    height: 30%;
+    margin: auto;
+}
+
+figcaption {
+    text-align: center;
+    margin: 10px;
+}
+
+.sub-heading {
+    font-size: 30px;
+    background-color: darkred;
+    color: gold;
+    padding: 15px;
+    margin-left: 5px;
+    width: 370px;
+}
+
+ul {
+    list-style-type: square;
+    font-size: 20px;
+}
+
+li {
+    font-weight: bold;
+}
+
+div p{
+    display: block;
+    font-size: 20px;
+    text-align: left;
+}
