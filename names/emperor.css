@@ -27,6 +27,13 @@ p {
     width: 50%;
 }
 
+.trajan-column {
+    display: block;
+    margin: auto;
+    height: 30%;
+    width: 50%;
+}
+
 figcaption {
     text-align: center;
     margin: 10px;
@@ -53,6 +60,11 @@ figcaption {
 .constantine {
     padding: 10px;
     width: 480px;
+}
+
+.trajan {
+    padding: 10px;
+    width: 250px;
 }
 
 ul {
